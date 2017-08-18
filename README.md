@@ -1,0 +1,1 @@
+I made the CheckViewController class thanks to sat2eesh/ios-jailBroken repository
