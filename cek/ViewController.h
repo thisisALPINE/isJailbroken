@@ -9,6 +9,11 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UILabel *ParLabel;
+@property (weak, nonatomic) IBOutlet UILabel *InfoLabel;
+@property (weak, nonatomic) IBOutlet UILabel *IsLabel;
+@property (weak, nonatomic) IBOutlet UILabel *CheckLabel;
+- (IBAction)CheckButton:(id)sender;
 
 
 @end
